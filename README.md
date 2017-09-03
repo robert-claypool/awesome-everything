@@ -12,6 +12,8 @@ The scope for this list is "stuff I find useful" and "stuff I like".
 * Learn the ways of Linux-fu, for free: https://linuxjourney.com/
 * [The Arch Liunx Wiki](https://wiki.archlinux.org/) (a great resource, no matter your distro)
 * [Use the Unofficial Bash Strict Mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+* [Unix as IDE](https://sanctum.geek.nz/arabesque/series/unix-as-ide/)
+* [Art of the Command Line](https://github.com/jlevy/the-art-of-command-line)
 
 ### Vim
 * Neovim: https://neovim.io/
