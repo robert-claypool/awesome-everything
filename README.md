@@ -28,6 +28,9 @@ The scope for this list is "stuff I find useful" and "stuff I like".
 ### JavaScript
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
+### Cloud Providers
+* [Amazon Web Services, a practical guide](https://github.com/open-guides/og-aws)
+
 ### Bitcoin
 * [What is Bitcoin?](http://youtu.be/Um63OQz3bjo) (in 30 seconds)
 * The original [Satoshi whitepaper](https://bitcoin.org/bitcoin.pdf)
