@@ -31,11 +31,5 @@ The scope for this list is "stuff I find useful" and "stuff I like".
 ### Cloud Providers
 * [Amazon Web Services, a practical guide](https://github.com/open-guides/og-aws)
 
-### Bitcoin
-* [What is Bitcoin?](http://youtu.be/Um63OQz3bjo) (in 30 seconds)
-* The original [Satoshi whitepaper](https://bitcoin.org/bitcoin.pdf)
-* Bitcoin vs. Traditional Banking, [Andreas Antonopoulos: Canadian Senate Testimony](https://decentralize.today/opening-remarks-canadian-senate-testimony-on-bitcoin-eb77f696ee5e)
-
 ### Web Design
 * [Web Design in 4 Minutes](http://jgthms.com/web-design-in-4-minutes), try it!
-* [Semantic UI](https://semantic-ui.com), better than Bootstrap, far better than Foundation.
